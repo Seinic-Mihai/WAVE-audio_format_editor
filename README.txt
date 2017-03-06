@@ -1,5 +1,4 @@
 auteur :	Seinic Mihai	u21415239
-		Zybert Alex	u21505392
 
 Basically this project is to manipulate audio files of type
 "*.wav".
@@ -29,5 +28,3 @@ As well you can use our program with some basic flags
 -scale "value" (changing the speed of playing the audio)
 
 Any bugs, reports or sugestions you can send at seinic1994@gmail.com
-
-P.S. : If we only had to work on this project (without exams and everything else) and more time it would have been better. (We hope that we will get some bonuses on colors and on how we structured our code :) Thanks for reading this).
